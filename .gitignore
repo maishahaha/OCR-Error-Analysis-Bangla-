@@ -1,0 +1,15 @@
+# Dataset folders
+dataset/
+dataset_real/
+
+# Cache directories
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Other common cache
+*.log
+.DS_Store
