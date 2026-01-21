@@ -1,0 +1,16 @@
+BASELINE OCR PERFORMANCE SUMMARY
+========================================
+
+Total samples: 3068
+
+Overall Metrics:
+Mean CER: 0.5726
+Median CER: 0.5635
+% CER = 0: 23.79%
+Worst 5% CER ≥: 1.0000
+
+Error Distribution:
+CER = 0: 730
+0 < CER ≤ 0.2: 258
+0.2 < CER ≤ 0.5: 532
+CER > 0.5: 1548

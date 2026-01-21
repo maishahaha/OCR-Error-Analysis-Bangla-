@@ -9,6 +9,7 @@ __pycache__/
 .cache/
 .pytest_cache/
 .mypy_cache/
+venv
 
 # Other common cache
 *.log
