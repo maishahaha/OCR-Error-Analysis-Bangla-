@@ -1,0 +1,9 @@
+FAILURE ANALYSIS SUMMARY
+=========================
+error_category
+Hallucination/Noise              970
+Low Confidence Uncertainty       405
+Linguistic/Modifier Error        333
+Severe Over/Under Recognition     16
+
+Note: Categories based on automated heuristic analysis.
