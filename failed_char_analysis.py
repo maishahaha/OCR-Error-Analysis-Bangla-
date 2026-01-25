@@ -39,5 +39,5 @@ with open('analysis/full_error_profile.txt', 'w', encoding='utf-8') as f:
     f.write("\n=== TOP 20 GHOST CHARACTERS (HALLUCINATIONS) ===\n")
     for char, count in insertions.most_common(20):
         f.write(f"{char}: {count}\n")
-
+        
 print("✅ Full Error Profile saved to analysis/full_error_profile.txt")
