@@ -1,0 +1,14 @@
+TESSERACT PERFORMANCE SUMMARY
+========================================
+Total Samples: 3068
+
+Overall Metrics:
+Mean CER: 0.9538
+Median CER: 1.0000
+Accuracy (CER=0): 75 (2.44%)
+
+Error Distribution:
+CER = 0: 75
+0 < CER ≤ 0.2: 40
+0.2 < CER ≤ 0.5: 75
+CER > 0.5: 2878

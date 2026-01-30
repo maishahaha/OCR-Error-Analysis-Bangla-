@@ -1,0 +1,14 @@
+EASYOCR PERFORMANCE SUMMARY
+========================================
+Total Samples: 3068
+
+Overall Metrics:
+Mean CER: 0.5639
+Median CER: 0.5192
+Accuracy (CER=0): 737 (24.02%)
+
+Error Distribution:
+CER = 0: 737
+0 < CER ≤ 0.2: 265
+0.2 < CER ≤ 0.5: 532
+CER > 0.5: 1534
